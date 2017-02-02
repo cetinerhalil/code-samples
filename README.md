@@ -1,2 +1,1 @@
-# golang-exercises
-**Learning Go by building algorithms**
+A repository to try out new languages
